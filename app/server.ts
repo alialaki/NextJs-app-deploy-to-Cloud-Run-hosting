@@ -5,6 +5,9 @@ const favoriteThings = [
     'Football',
     'JavaScript',
     'Volleyball',
+    'Reading',
+    'Traveling',
+    'Cooking',
 ];
 
 export async function getFavoriteThings() {
