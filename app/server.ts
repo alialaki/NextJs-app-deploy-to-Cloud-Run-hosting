@@ -8,6 +8,7 @@ const favoriteThings = [
     'Reading',
     'Traveling',
     'Cooking',
+    'Music',
 ];
 
 export async function getFavoriteThings() {
